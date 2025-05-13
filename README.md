@@ -20,9 +20,14 @@
     - Say whether you’re able to reproduce the error every time you run
     the program or whether it happens only after you perform certain
     actions. If the latter, then explain what those actions are.
+**Operator: Operator in special symbol which perform specific task on operands**
 
 |Operator|Operation|Example|Answer|
 |---------|--------|-------|------|
 |**       |Exponent|2**4    |16   |
 |%        |Modulus |10%2    |0    |
 |//       |floor division operator|7//2|3|
+|/|Division|10/2|0|
+|*|Multiplication|10*10|100|
+|-|Subtraction|100-10|90|
+|+|Addition|10+90|100|
