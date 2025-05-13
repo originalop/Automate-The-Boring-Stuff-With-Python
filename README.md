@@ -20,3 +20,8 @@
     - Say whether you’re able to reproduce the error every time you run
     the program or whether it happens only after you perform certain
     actions. If the latter, then explain what those actions are.
+|Operator|Operation|Example|Answer|
+|---------|--------|-------|------|
+|**       |Exponent|2**4    |16   |
+|%        |Modulus |10%2    |0    |
+|//       |floor division operator|7//2|3|
