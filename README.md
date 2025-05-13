@@ -20,8 +20,8 @@
     - Say whether you’re able to reproduce the error every time you run
     the program or whether it happens only after you perform certain
     actions. If the latter, then explain what those actions are.
-    
-**Operator: Operator in special symbol which perform specific task on operands**
+
+**Operator:** Operator in special symbol which perform specific task on operands.
 
 |Operator|Operation|Example|Answer|
 |---------|--------|-------|------|
