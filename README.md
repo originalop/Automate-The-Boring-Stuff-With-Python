@@ -55,3 +55,11 @@ a = 3.14
 b = -0.001
 c = 2e3  # 2000.0 in scientific notation
 ```
+3. String(str)
+- Represents sequences of Unicode characters (text).
+- Enclosed in single ' or double " quotes.
+Examples:
+```
+name = "Sakshi"
+greeting = 'Hello, Sakshi!'
+multi_line = """Love is just attraction, I can't love you because I can't grow with you."""
