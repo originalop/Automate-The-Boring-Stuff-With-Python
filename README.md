@@ -43,7 +43,7 @@ x = 10
 y = -25
 z = 0
 ```
-- Python automatically handles very large integers:
+- Python automatically handles very large integers:<br>
 `big = 12345678901234567890
 `
 2. Floating-Point(float)
