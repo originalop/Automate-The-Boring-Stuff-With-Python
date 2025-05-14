@@ -79,3 +79,10 @@ print("newString: ",newString)
 ## String replication:
 **String replication means multiplying the string with `x` times**
 ```
+name="John"
+names=name*10
+print(type(names))
+print(names)
+# Output: <class 'str'>
+# JohnJohnJohnJohnJohnJohnJohnJohnJohnJohn
+```
