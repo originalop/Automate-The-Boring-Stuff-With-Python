@@ -65,7 +65,8 @@ greeting = 'Hello, Sakshi!'
 multi_line = """Love is just attraction, I can't love you because I can't grow with you."""
 ```
 
-# String concatenation and replication: **`+` operator is used to concate two strings. It won't change origina string instead create new one after concatenation**
+# String concatenation and replication: 
+**`+` operator is used to concate two strings. It won't change origina string instead create new one after concatenation**
 
 ```
 firstName="Hello"
