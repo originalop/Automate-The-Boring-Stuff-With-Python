@@ -76,3 +76,6 @@ print("firstName: ",firstName)
 print("lastName: ",lastName)
 print("newString: ",newString)
 ```
+## String replication:
+**String replication means multiplying the string with `x` times**
+```
