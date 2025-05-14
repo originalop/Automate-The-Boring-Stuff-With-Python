@@ -43,3 +43,15 @@ x = 10
 y = -25
 z = 0
 ```
+- Python automatically handles very large integers:
+`big = 12345678901234567890
+`
+2. Floating-Point(float)
+- Represents real numbers (with decimal points).
+- Can also be used for scientific notation.
+Examples:
+```
+a = 3.14
+b = -0.001
+c = 2e3  # 2000.0 in scientific notation
+```
