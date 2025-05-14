@@ -66,7 +66,7 @@ multi_line = """Love is just attraction, I can't love you because I can't grow w
 ```
 
 # String concatenation and replication: 
-**`+` operator is used to concate two strings. It won't change origina string instead create new one after concatenation**
+**`+` operator is used to concate two strings. It won't change original string instead create new one after concatenation**
 
 ```
 firstName="Hello"
