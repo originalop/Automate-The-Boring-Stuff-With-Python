@@ -32,3 +32,14 @@
 |*|Multiplication|10*10|100|
 |-|Subtraction|100-10|90|
 |+|Addition|10+90|100|
+
+## The Integer, Floating-Point, and String Data Types
+1. Integer(int)
+- Represents whole numbers (no decimal point).
+- Can be positive, negative, or zero.
+Examples:
+```
+x = 10
+y = -25
+z = 0
+```
