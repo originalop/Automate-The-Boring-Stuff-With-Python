@@ -91,5 +91,8 @@ print(names)
 **USed to compare `Boolean` values**
 
 1] `and`
+
 2] `or`
+
 3] `not`
+
