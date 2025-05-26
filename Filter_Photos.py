@@ -1,8 +1,61 @@
 import glob
 
-all_python_files = glob.glob(r"E:\PHOTOS\**\*.jpg", recursive=True)
-for i in all_python_files:
-    print(i)
+path=r"C:\Experiment-Environment"
+
+# Every possible photos extensions.
+image_extensions = [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".bmp",
+    ".tiff",
+    ".tif",
+    ".webp",
+    ".heic",
+    ".heif",
+    ".jp2",
+    ".j2k",
+    ".pcx",
+    ".tga",
+    ".ppm",
+    ".pgm",
+    ".pbm",
+    ".pnm",
+    ".dds",
+    ".ras",
+    ".icns",
+    ".ico",
+    ".xpm",
+    ".raw",
+    ".cr2",
+    ".cr3",
+    ".nef",
+    ".arw",
+    ".orf",
+    ".rw2",
+    ".dng",
+    ".sr2",
+    ".srf",
+    ".pef",
+    ".raf",
+    ".svg",
+    ".pdf",
+    ".eps",
+    ".ai",
+    ".psd",
+    ".xcf",
+    ".afphoto",
+    ".kra",
+    ".exr",
+    ".hdr",
+    ".webm",
+    ".apng",
+]
+for i in image_extensions:
+    all_python_files = glob.glob(fr"{path}**\*{i}", recursive=True)
+    for i in all_python_files:
+        print(i)
 # Explanation:
 # 1. import glob
 # This imports the glob module, which is used to find all the pathnames matching a specified pattern according to the rules used by the Unix shell, although results are returned in arbitrary order.
